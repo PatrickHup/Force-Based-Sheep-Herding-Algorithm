@@ -2,7 +2,9 @@
 
 This MATLAB project simulates a force-based model for sheep herding using autonomous "dogs" that guide sheep toward a defined goal area. The simulation visualizes the movement of sheep and dogs over time using a 2D animated plot.
 
-![Herding Simulation](media/sim_1.gif)
+<div align="center">
+  <img src="media/sim_1.gif" alt="Herding Simulation" width="600"/>
+</div>
 
 The underlying dynamics are based on the model presented in the paper:
 
@@ -41,8 +43,9 @@ Each agent's behavior is governed by simple force-based rules that mimic realist
 - Run multiple simulation with different parameters for statistical analysis
 - Allows for connectivity analysis via algebraic connectivity (i.e. fiedler value over iterations)
 
-<img src="media/R60_normal" alt="Fiedler value and distance to goal analysis" width="400"/>
-
+<div align="center">
+    <img src="media/R60_normal.png" alt="Fiedler value and distance to goal analysis" width="400"/>
+</div>
 ## Getting Started
 
 ### Prerequisites
