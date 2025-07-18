@@ -8,9 +8,8 @@ This MATLAB project simulates a force-based model for sheep herding using autono
 
 The underlying dynamics are based on the model presented in the paper:
 
-**"Herd guidance by multiple sheepdog agents with repulsive force"**
+[Herd guidance by multiple sheepdog agents with repulsive force](https://link.springer.com/article/10.1007/s10015-021-00726-7) by Kubo, M., Tashiro, M., Sato, H., et al. (2022).
 
-https://link.springer.com/article/10.1007/s10015-021-00726-7
 
 Our contribution:
 - added advanced vision mode
@@ -46,6 +45,7 @@ Each agent's behavior is governed by simple force-based rules that mimic realist
 <div align="center">
     <img src="media/R60_normal.png" alt="Fiedler value and distance to goal analysis" width="400"/>
 </div>
+
 ## Getting Started
 
 ### Prerequisites
@@ -64,3 +64,10 @@ Each agent's behavior is governed by simple force-based rules that mimic realist
     
 2. Open MATLAB and navigate to the `src` directory.
 3. Run the simulation: main.m# Force-Based-Sheep-Herding-Algorithm
+
+## Reference
+
+Kubo, M., Tashiro, M., Sato, H., et al. (2022).  
+**Herd guidance by multiple sheepdog agents with repulsive force**.  
+*Artificial Life and Robotics*, 27, 416–427.  
+[https://doi.org/10.1007/s10015-021-00726-7](https://doi.org/10.1007/s10015-021-00726-7)
