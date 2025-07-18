@@ -2,6 +2,8 @@
 
 This MATLAB project simulates a force-based model for sheep herding using autonomous "dogs" that guide sheep toward a defined goal area. The simulation visualizes the movement of sheep and dogs over time using a 2D animated plot.
 
+![Herding Simulation](sim_1.gif)
+
 The underlying dynamics are based on the model presented in the paper:
 
 **"Herd guidance by multiple sheepdog agents with repulsive force"**
