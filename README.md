@@ -41,7 +41,7 @@ Each agent's behavior is governed by simple force-based rules that mimic realist
 - Run multiple simulation with different parameters for statistical analysis
 - Allows for connectivity analysis via algebraic connectivity (i.e. fiedler value over iterations)
 
-![Fiedler value and distance to goal analysis](media/R60_normal.png)
+<img src="media/R60_normal" alt="Fiedler value and distance to goal analysis" width="400"/>
 
 ## Getting Started
 
