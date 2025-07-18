@@ -33,6 +33,7 @@ Each agent's behavior is governed by simple force-based rules that mimic realist
 - Run simulation with different number of dog and sheep agent
 - 2D visualization for the herding process
 - Run multiple simulation with different parameters for statistical analysis
+- Allows for connectivity analysis via algebraic connectivity (i.e. fiedler value over iterations)
 
 ## Getting Started
 
