@@ -10,6 +10,12 @@ The underlying dynamics are based on the model presented in the paper:
 
 https://link.springer.com/article/10.1007/s10015-021-00726-7
 
+Our contribution:
+- added advanced vision mode
+
+for more information check out:
+DONT FORGET TO ADD PAPER WHEN DONE
+
 ## Project Structure
 
 ```
@@ -34,6 +40,8 @@ Each agent's behavior is governed by simple force-based rules that mimic realist
 - 2D visualization for the herding process
 - Run multiple simulation with different parameters for statistical analysis
 - Allows for connectivity analysis via algebraic connectivity (i.e. fiedler value over iterations)
+
+![Fiedler value and distance to goal analysis](media/R60_normal.png)
 
 ## Getting Started
 
