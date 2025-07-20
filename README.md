@@ -10,12 +10,8 @@ The underlying dynamics are based on the model presented in the paper:
 
 [Herd guidance by multiple sheepdog agents with repulsive force](https://link.springer.com/article/10.1007/s10015-021-00726-7) by Kubo, M., Tashiro, M., Sato, H., et al. (2022).
 
-
 Our contribution:
 - added advanced vision mode
-
-for more information check out:
-DONT FORGET TO ADD PAPER WHEN DONE
 
 ## Project Structure
 
